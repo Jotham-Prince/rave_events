@@ -1,2 +1,1 @@
-# rave_events
-rave_events app
+Rave Events is an easy way to offer additional value that will boost up overall attendees’ experience and take your event to a whole new level. Besides that, finding an event or a party around your locality is also made easy Rave Events App shows an outline of the upcoming events, parties, concerts and other popular ceremonies. When one clicks one an event of choice, they are able to know the details about that event for-example the location of the event, the artists, and the payment details. Payment of the event is done through the choice of Mobile Money or Credit Card. After Payment, A unique QR code is generated for the user.
